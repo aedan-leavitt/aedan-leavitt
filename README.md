@@ -14,13 +14,13 @@ C++, Python, Java, C#, JavaScript, C, MIPS Assembly
 HTML, CSS  
 
 **Databases:**  
-MySQL, MongoDB  
+MySQL, MongoDB
 
 **Core CS Knowledge:**  
 Algorithms & Data Structures, Object-Oriented Programming, Software Engineering, Computer Architecture  
 
 **Other:**  
-AI Model Training (Object Recognition), Generative AI Tools, WPF, Git/GitHub, Packet Tracer
+WPF, Git/GitHub
 
 ---
 
@@ -28,9 +28,9 @@ AI Model Training (Object Recognition), Generative AI Tools, WPF, Git/GitHub, Pa
 
 Here are some of my favorite projects. More are available in my repositories!
 
-### **Tic Tac Toe AI**
-An AI that plays Tic Tac Toe optimally using algorithmic logic.  
-**Tech:** C++  
+### **Invoice Management System**
+An Invoice management system I created together in a team with other people.
+**Tech:** 
 🔗 *Repo:* (add link)
 
 ### **WPF Flight Information System**
@@ -38,8 +38,8 @@ A WPF application backed by a Microsoft Access database for managing flight info
 **Tech:** C#, WPF, SQL  
 🔗 *Repo:* (add link)
 
-### **Object Recognition Model**
-A trained AI model capable of identifying object
+### **Weather App**
+
 
 
 <!--
