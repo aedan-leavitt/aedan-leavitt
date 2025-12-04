@@ -29,8 +29,8 @@ WPF, Git/GitHub
 Here are some of my favorite projects. More are available in my repositories!
 
 ### **Invoice Management System**
-An Invoice management system I created together in a team with other people.
-**Tech:** 
+An Invoice management system I created together in a team with two people. I largely worked on the Main screen of it. The original group repository was private. The team members of the original group were: 
+**Tech:** WPF, MDB
 🔗 *Repo:* (add link)
 
 ### **WPF Flight Information System**
@@ -38,7 +38,6 @@ A WPF application backed by a Microsoft Access database for managing flight info
 **Tech:** C#, WPF, SQL  
 🔗 *Repo:* (add link)
 
-### **Weather App**
 
 
 
