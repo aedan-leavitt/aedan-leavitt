@@ -29,17 +29,14 @@ WPF, Git/GitHub
 Here are some of my favorite projects. More are available in my repositories!
 
 ### **Invoice Management System**
-An Invoice management system I created together in a team with two people. I largely worked on the Main screen of it. The original group repository was private. The team members of the original group were: 
+An Invoice management system I created together in a team with two people. I largely worked on the Main Window of it. The original group repository was private so this is just a copy of it. The team members of the original group were: Brooklyn Loomis, Avery Mcewen, Aedan Leavitt(Me)
 **Tech:** WPF, MDB
+🔗 *Repo:* https://github.com/aedan-leavitt/InvoiceGroupProject
+
+### **The customizable flashcard website **
+A HTML webpage I created alone. It is a webpage made for studying and flashcards that I tried to make be highly customizable.
+**Tech:** HTML, CSS, JavaScript
 🔗 *Repo:* (add link)
-
-### **WPF Flight Information System**
-A WPF application backed by a Microsoft Access database for managing flight information.  
-**Tech:** C#, WPF, SQL  
-🔗 *Repo:* (add link)
-
-
-
 
 <!--
 **aedan-leavitt/aedan-leavitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
