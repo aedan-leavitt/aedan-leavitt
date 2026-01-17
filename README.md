@@ -33,11 +33,12 @@ An Invoice management system I created together in a team with two people. I lar
 **Tech:** WPF, MDB
 🔗 *Repo:* https://github.com/aedan-leavitt/InvoiceGroupProject
 
+<!--
 ### **The customizable flashcard website **
 A HTML webpage I created alone. It is a webpage made for studying and flashcards that I tried to make be highly customizable.
 **Tech:** HTML, CSS, JavaScript
 🔗 *Repo:* (add link)
-
+-->
 <!--
 **aedan-leavitt/aedan-leavitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
