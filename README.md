@@ -28,6 +28,12 @@ WPF, Git/GitHub
 
 Here are some of my favorite projects. More are available in my repositories!
 
+### **WirelessTags Reciever and Display**
+A system to recieve information from a wireless tag manager, store it in InfluxDB, and display it on Grafana. I largely worked on making sure that the information is correctly formatted, added weather estimates, and made a Grafana dashboard that would display the current temperature, daily max and min temperature and display the estimated max, min, and current temperatures.
+**Tech:** Node.js, InfluxDB, Grafana
+🔗 *Repo:* https://github.com/aedan-leavitt/wirelesstags-receiver
+
+
 ### **Invoice Management System**
 An Invoice management system I created together in a team with two people. I largely worked on the Main Window of it. The original group repository was private so this is just a copy of it. The team members of the original group were: Brooklyn Loomis, Avery Mcewen, Aedan Leavitt(Me)
 **Tech:** WPF, MDB
