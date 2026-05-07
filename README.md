@@ -46,6 +46,12 @@ An Invoice management system I created together in a team with two people. I lar
 **Tech:** WPF, MDB
 🔗 *Repo:* https://github.com/aedan-leavitt/InvoiceGroupProject
 
+
+### **Invoice Management System**
+A website for creating a calendar to view upcoming events. It allows for the creation and filtering events by group and ensures that each user can only see their own events. This was done on my own.
+**Tech:** Python, HTML, CSS
+🔗 *Repo:* https://github.com/aedan-leavitt/SchedulingSite
+
 <!--
 ### **The customizable flashcard website **
 A HTML webpage I created alone. It is a webpage made for studying and flashcards that I tried to make be highly customizable.
